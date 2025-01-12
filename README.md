@@ -1,19 +1,23 @@
 # Tourism - Website
 
-## Giới thiệu
-Website giới thiệu về ngành Tourism. Các tính năng chính:
-- Trang chủ giới thiệu sản phẩm và dịch vụ.
-- Trang thông tin doanh nghiệp.
-- Trang sản phẩm chi tiết.
-- Trang liên hệ.
+## Introduction
+Website introducing the Tourism industry. Main features:
+- Home page introducing products and services.
+- Business information page.
+- Detailed product page.
+- Contact page.
 
-## Cách sử dụng
-1. Tải file về.
-2. Mở file `index.html` bằng trình duyệt.
+## How to use
+1. Download the file.
+2. Open the `index.html` file with a browser.
 
-## Cấu trúc thư mục
-- `index.html`: Trang chủ.
-- `about.html`: Trang giới thiệu.
-- `products.html`: Trang sản phẩm.
-- `contact.html`: Trang liên hệ.
-- `style.css`: File định dạng CSS.
+## Folder structure
+- `index.html`: Home page.
+
+- `about.html`: Introduction page.
+
+- `products.html`: Product page.
+
+- `contact.html`: Contact page.
+
+- `style.css`: CSS format file.
